@@ -2,11 +2,17 @@
 
 #Website Development Workshops
 
-### Workshops Sources 
+### Workshops
 
-1. HTML(not started)
+1. HTML(started)
 2. CSS (not started)
 3. Javascript (not started)
 4. jQuery
-5. Boostrap 4 (not started)
-6. Games (not started)
+5. Bootstrap 4 (not started)
+6. Resume Website (not started)
+7. Product Landing Page (not started)
+8. Multi Page Website(not started)
+9. Business Website(not started)
+10. Pong Game (not started)
+11. Snake Game (not started)
+12. Platform Game (not started)
