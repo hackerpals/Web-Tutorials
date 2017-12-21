@@ -1,0 +1,62 @@
+/*Build A Single Page Website*/
+
+/* Global */
+body{
+  padding: 0;
+  margin: 0;
+}
+
+h1,h3,h3,h4,h5,h6{
+
+}
+
+/* Navigations*/
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000;
+}
+
+li{
+  float: right;
+  display: flex;
+}
+
+li a{
+  display: block;
+  color: #fff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover{
+  background-color: #111;
+}
+
+/* Header */
+header{
+  height: 400px;
+  background-image: url("img/yoga.jpg") ;
+
+}
+
+/* Subscribe Styles */
+.subscribe{
+  height: 150px;
+
+}
+
+footer{
+  color: #fff;
+  background-color: #000;
+  margin: 0;
+}
+
+footer p{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
