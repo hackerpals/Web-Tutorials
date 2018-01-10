@@ -1,0 +1,48 @@
+body{
+    margin: 50px;
+}
+
+/* Anchor Pseudo-classes */
+
+/* unvisited link */
+a:link{
+    color: #FF0000;
+}
+
+/* visited link */
+a:visited{
+    color:#00ff00;
+}
+
+/* mouse over link */
+a:hover{
+    color:hotpink; 
+}
+
+/* selected link */
+a:activate{
+    color: #0000ff;
+}
+
+/* Mouse over div */
+.mousehover{
+    background-color: green; 
+    color: white ;
+    padding:25px;
+    text-align: center; 
+}
+
+.mousehover:hover{
+    background-color: blue;
+}
+
+
+/* Tooltip effect */
+.reveal{
+    display: none;
+    background-color:yellow;
+    padding:20px;
+}
+.tooltip:hover p{
+    display: block;
+}
