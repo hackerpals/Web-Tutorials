@@ -1,0 +1,38 @@
+/*  FLEXBOX TUTORIAL */
+body{
+  margin: 0;
+}
+.container{
+  display: flex;
+}
+
+.flex-item{
+  flex:1;
+}
+
+.left{
+  justify-content: flex-start;
+}
+
+.right{
+  justify-content: flex-end;
+}
+
+.blueBackground{
+  background: lightskyblue;
+}
+
+nav{
+  position: relative;
+}
+
+.nav{
+  list-style: none;
+}
+
+.nav a{
+  text-decoration: none;
+  display: block;
+  padding: 0 1em ;
+  color: white;
+}

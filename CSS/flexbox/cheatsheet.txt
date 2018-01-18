@@ -1,0 +1,19 @@
+
+
+flex-direction: row | row-reverse | column | column-reverse;
+row: items are placed the same as the text direction;
+row-reverse: items are placed opposite to the text direction.
+column: items are placed top to bottom.
+column-reverse: items are placed bottom to top.
+
+
+flex-wrap: nowrap | wrap | wrap-reverse
+nowrap: Every item is fit to a single line.
+wrap: items wrap around to additional lines.
+wrap-reverse: items wrap around to additional lines in reverse.
+
+flex-flow: (row/column) | wrap;
+
+Children tags:
+
+align-self:
